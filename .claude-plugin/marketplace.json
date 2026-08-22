@@ -1,0 +1,16 @@
+{
+  "name": "innova-harmonics-sushidata-gtm",
+  "owner": {
+    "name": "Sushidata"
+  },
+  "plugins": [
+    {
+      "name": "innova-harmonics-sushidata-gtm",
+      "source": {
+        "source": "github",
+        "repo": "georgeportillo/innova-harmonics-sushidata-gtm"
+      },
+      "description": "Sushidata context lake + GTM agent: prospecting, outbound, competitor battlecards, ICP signals, and outreach copy."
+    }
+  ]
+}
